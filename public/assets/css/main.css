@@ -3649,4 +3649,14 @@
 	padding-top: 20px;
 	}
 	
-	
+	.skill-icon {
+		margin: 25px;
+
+	}
+	.box-around {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-evenly;
+		
+	}
